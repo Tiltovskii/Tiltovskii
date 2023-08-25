@@ -13,8 +13,8 @@ HSE Physics Faculty student from Russia
 
 <!--
 ![gif](https://user-images.githubusercontent.com/74038190/240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif)
--->
 
+<!--
 Leetcode stats
 <img src="https://user-images.githubusercontent.com/74038190/216654116-d0e8d227-7977-4edc-8d36-63461bda9503.gif" height="64"/>
 
@@ -35,7 +35,7 @@ GitHub stats
 [![Vk](https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/mega_serega)
 [![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/Tiltovskii/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/coolik)
-
+-->
 <!--
 **Tiltovskii/Tiltovskii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
